@@ -3,13 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
-body{
-    width: 100%;
-    position: absolute;
-    height: 50vh;
-}
 
-.header{
+
+/* .header{
     text-align: center;
 }
 .header h1{
@@ -204,4 +200,4 @@ body{
         left: 2rem;
         top: 36rem;
    }
-}
+} */
